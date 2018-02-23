@@ -1,0 +1,4 @@
+# pg_cgroup extension
+comment = 'Resource control using cgroup'
+default_version = '1.0'
+module_pathname = '$libdir/pg_cgroup'
