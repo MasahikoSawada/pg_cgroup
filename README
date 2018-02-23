@@ -18,7 +18,7 @@ $ sudo yum -y libcgroup-devel
 ```
 2. Get `pg_cgroup` source code
 ```bash
-$ git clone 
+$ git clone git@github.com:MasahikoSawada/pg_cgroup.git
 ```
 3. Build and Install
 ```bash
